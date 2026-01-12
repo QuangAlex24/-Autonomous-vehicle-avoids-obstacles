@@ -48,7 +48,3 @@ Dự án hướng tới việc ứng dụng IoT và Robot trong thực tế, ph�
 - Giao tiếp Web: **HTML, CSS**
 - Giao thức: **WiFi (ESP32 Web Server)**
 - Môi trường lập trình: **Arduino IDE**
-
----
-
-## 📂 Cấu trúc thư mục
